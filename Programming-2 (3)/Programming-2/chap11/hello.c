@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include func.h"
 
-extern int get_id(void);
-extern last_id;
+// extern int get_id(void);
+// extern last_id;
 
 int main(int argc, char* argv[])
 {
