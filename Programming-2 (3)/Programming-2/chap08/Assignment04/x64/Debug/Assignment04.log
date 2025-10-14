@@ -1,0 +1,10 @@
+﻿  Assignment04.c
+C:\Users\user\source\repos\chap08\Assignment04\Assignment04.c(4,19): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\source\repos\chap08\Assignment04\Assignment04.c(4,31): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\source\repos\chap08\Assignment04\Assignment04.c(4,37): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\source\repos\chap08\Assignment04\Assignment04.c(4,49): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\source\repos\chap08\Assignment04\Assignment04.c(4,55): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\source\repos\chap08\Assignment04\Assignment04.c(4,61): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\source\repos\chap08\Assignment04\Assignment04.c(4,67): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\source\repos\chap08\Assignment04\Assignment04.c(4,73): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  Assignment04.vcxproj -> C:\Users\user\source\repos\chap08\x64\Debug\Assignment04.exe
