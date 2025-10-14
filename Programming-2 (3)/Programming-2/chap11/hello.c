@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include func.h"
+#include "func.h"
 
 // extern int get_id(void);
 // extern last_id;
